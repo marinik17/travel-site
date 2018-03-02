@@ -8,11 +8,19 @@
   },
   "devDependencies": {
     "autoprefixer": "^7.1.6",
+
+    "browser-sync": "2.18.13",
+
     "gulp": "^3.9.1",
     "gulp-postcss": "^7.0.0",
     "gulp-watch": "^4.3.11",
     "postcss-import": "^8.1.2",
     "postcss-nested": "^2.1.2",
+
+    "postcss-simple-vars": "^4.1.0",
+    "postcss-mixins":"4.0.2"
+
     "postcss-simple-vars": "^4.1.0"
+
   }
 }
